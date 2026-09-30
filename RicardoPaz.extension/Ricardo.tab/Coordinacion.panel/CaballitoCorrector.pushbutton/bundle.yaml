@@ -1,0 +1,10 @@
+# bundle.yaml — CaballitoCorrector.pushbutton
+name: Salto Tuberia
+title: Salto Tuberia
+tooltip: >
+  Corrige clashes en tuberías MEP generando caballitos/desvíos automáticos.
+  Soporta Conduit (eléctrico) y Pipe (MEP).
+  Funciona con elementos del modelo actual y modelos linkeados.
+author: BIM Coordinación
+min_revit_ver: 2024
+max_revit_ver: 2025
